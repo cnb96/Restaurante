@@ -14,7 +14,7 @@
         <br />
         <asp:UpdatePanel ID="UpdatePanel1" runat="server">
             <ContentTemplate>
-                <asp:Label ID="Label1" runat="server" Text="PEDIDOS RESTAURATE"></asp:Label>
+                <asp:Label ID="Label1" runat="server" Text="PEDIDOS DEL RESTAURATE 👍👍"></asp:Label>
 <br />
                 <br />
                 <asp:Label ID="Label2" runat="server" Text="Comida"></asp:Label>
@@ -22,7 +22,7 @@
                 </asp:DropDownList>
                 <br />
                 <br />
-                <asp:Button ID="btnAceptar" runat="server" OnClick="btnAceptar_Click" Text="Aceptar" />
+                <asp:Button ID="btnAceptar" runat="server" OnClick="btnAceptar_Click" Text="ACEPTAR" />
                 <br />
                 <asp:Label ID="lblMensaje" runat="server"></asp:Label>
                 <br />

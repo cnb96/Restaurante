@@ -12,7 +12,7 @@ namespace AppRestaurante.Datos
         SqlConnection conexion;
         public clConexion()
         {
-            conexion = new SqlConnection("Data Source=.;Initial Catalog=dbRestaurante;Integrated Security=True");
+            conexion = new SqlConnection("Data Source=.;Initial Catalog=dbRestaurate;Integrated Security=True");
             conexion.Open();
         }
 
